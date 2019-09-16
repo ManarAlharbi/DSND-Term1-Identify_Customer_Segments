@@ -17,7 +17,8 @@ I preprocessed the data, applied dimensionality reduction techniques, and
 implemented k-means clustering algorithms to segment customers with the goal of optimizing customer outreach for a mail order company.
 
 ## File Descriptions <a name="files"></a>
-`Identify_Customer_Segments.ipynb`: a Jupyter notebook, contains the whole project code to identify customer segments.
+`Identify_Customer_Segments.ipynb` and `Identify_Customer_Segments.html`: 
+a Jupyter notebook and an HTML file, contain the whole project code to identify customer segments.
 
 ## Results <a name="results"></a>
 The graph below compares the proportion of the data in each cluster for the customer data to the general population data,
