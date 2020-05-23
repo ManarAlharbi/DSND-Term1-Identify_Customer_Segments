@@ -43,7 +43,7 @@ The graph below compares the proportion of the data in each cluster for the cust
 ## Required Libraries <a name="libraries"></a>
 
 - Pandas, NumPy, Scikit-learn (Machine Learning Libraries)
-- Matplotlib (Python 2D plotting library)
+- Matplotlib and Seaborn (Data Visualization Libraries)
 - random
 
 
